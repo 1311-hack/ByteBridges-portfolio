@@ -10484,3 +10484,9 @@ footer.clean-footer.crev:before {
 .text p {
   margin-top: 55px;
 }
+.footertext{
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  justify-content: center;
+}
